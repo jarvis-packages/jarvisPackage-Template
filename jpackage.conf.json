@@ -1,0 +1,8 @@
+{
+    "name": "jPackage_template",
+    "display_name": "JarvisPackage-Template",
+    "package_version": "1.0.0",
+    "jarvis_version": "0.0.2",
+    "authors": ["Jarvis_Packages"],
+    "git_url": ""
+}

@@ -1,3 +1,4 @@
+<img src="https://img.shields.io/badge/Jarvis-Packages-success" /><img src="https://img.shields.io/badge/Jarvis%20Package-v1.0.0-success?style=flat" />
 # jarvisPackage-Template
 `JarvisPackage-Template` - is a template package for creating new packages for the Jarvis Package Manager program.<br>
 ## Parameteres

@@ -10,5 +10,7 @@
 `long_description` - A long description of your package *("a veeeeeeeeery long description of your package")*.<br>
 `Authors` - one/few authors of your package *("JarvisPackages", "AltDemono")*.<br>
 `git_url` - The link to your package on the github *("https://github.com/jarvis-packages/jarvisPackage-Template")*.<br>
+## Author
+Made by `AltDemono` <br>
 ## Repo
 created by *Jarvis Packages (AltDemono)* .<br>

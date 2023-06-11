@@ -6,5 +6,8 @@
     "short_description": "a template",
     "long_description": "a template package for jarvis package manager",
     "authors": ["Jarvis_Packages"],
-    "git_url": ""
+    "git_url": "",
+    "modules" : {
+        "/weather": "weather"
+    }
 }

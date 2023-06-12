@@ -8,6 +8,6 @@
     "authors": ["Jarvis_Packages"],
     "git_url": "",
     "modules" : {
-        "/weather": "weather"
+        "weather": "weather"
     }
 }
